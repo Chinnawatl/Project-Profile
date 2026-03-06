@@ -1,0 +1,682 @@
+{
+  "___Comment-another": "------------------------------------------ การเปลี่ยนภาษาอื่น ๆ ----------------------------------------------------------------------",
+  "noDataAvailable": "ไม่พบข้อมูล",
+  "rule": {
+    "require": "กรุณากรอกข้อมูล",
+    "requireEmail": "ช่องนี้เฉพาะข้อความชนิดอีเมลเท่านั้น",
+    "phoneNumber": "ช่องนี้เฉพาะตัวเลข [0-9] และ [-] เท่านั้น",
+    "alphabet": "ช่องนี้เฉพาะตัวอักษรเท่านั้น"
+  },
+  "___Comment-Button": "------------------------------------------ การเปลี่ยนภาษาของ Button ----------------------------------------------------------------------",
+  "button": {
+    "clear": "ล้างตัวกรอง",
+    "increaseData": "เพิ่มข้อมูล",
+    "viewMoreDetail": "ดูรายละเอียด",
+    "editData": "แก้ไขข้อมูล",
+    "deleteData": "ลบข้อมูล",
+    "next": "ถัดไป",
+    "previous": "ย้อนกลับ",
+    "submit": "บันทึก",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก",
+    "confirm": "ยืนยัน",
+    "addGraduates": "เพิ่มผู้สำเร็จการศึกษา",
+    "exampleImportFile": "ตัวอย่างไฟล์",
+    "changesPassword": "เปลี่ยนรหัสผ่าน",
+    "addByFile": "เพิ่มจากไฟล์"
+  },
+  "paginate": {
+    "amount": "จำนวน :",
+    "rowPerPage": "แถวต่อหน้า"
+  },
+  "___Comment-sidebar": "------------------------------------------ การเปลี่ยนภาษาของ sidebar ----------------------------------------------------------------------",
+  "sidebar": {
+    "dashboard": "แดชบอร์ด",
+    "myCourse": "หลักสูตรของฉัน",
+    "matching": "การจับคู่",
+    "subMatch": {
+      "match": "จับคู่",
+      "managePosition": "จัดการตำแหน่ง"
+    },
+    "typeA": "TypeA",
+    "subA": {
+      "course": "หลักสูตร",
+      "graduate": "ผู้สำเร็จการศึกษา"
+    },
+    "typeB": "TypeB",
+    "subB": {
+      "manageCourse": "จัดการหลักสูตร",
+      "approveAcceptCourse": "อนุมัติหลักสูตร",
+      "manageTraining": "จัดการอบรม",
+      "approveAcceptTraining": "อนุมัติอบรม"
+    },
+    "eecNets": "ข้อมูลศูนย์เครือข่าย",
+    "manageAccount": "จัดการบัญชีผู้ใช้งาน"
+  },
+  "___Comment-Dashboard": "--------------------------------------------------- การเปลี่ยนภาษาของ module Dashboard ------------------------------------------------------",
+  "dashboard": {
+    "head": "แดชบอร์ด",
+    "welcome": "ยินดีต้อนรับสู่หน้าแดชบอร์ดของระบบ EEC มีงานทำ",
+    "lineChart": "กราฟแสดงจำนวนความร่วมมือในแต่ละปี",
+    "pieChart": "กราฟแสดงจำนวนศูนย์เครือข่ายในจังหวัด"
+  },
+  "___Comment-EEC-NETs": "--------------------------------------------------- การเปลี่ยนภาษาของ module EEC-NETs ------------------------------------------------------",
+  "eecNets": {
+    "manage": {
+      "filter": {
+        "search": "ค้นหา",
+        "city": "จังหวัด",
+        "type": "ชนิด"
+      },
+      "header": {
+        "networkCenter": "ศูนย์เครือข่าย",
+        "city": "จังหวัด",
+        "typeNetwork": "ประเภท",
+        "location": "สถานที่ตั้ง",
+        "action": "ดำเนินการ"
+      },
+      "manageEecNetsData": "จัดการข้อมูลศูนย์เครือข่าย",
+      "networkCenterData": "ข้อมูลศูนย์เครือข่าย",
+      "viewEecNetsData": "รายละเอียดข้อมูลศูนย์เครือข่าย",
+      "informationOnCooperationWithAgenciesOrEstablishments": "ข้อมูลความร่วมมือกับหน่วยงาน/สถานประกอบการ",
+      "informationOnProductionAndPersonnelSkillDevelopment": "ข้อมูลการผลิตและพัฒนาทักษะบุคลากร",
+      "detail": {
+        "networkCenter": "ศูนย์เครือข่าย",
+        "typeNetworkCenter": "ประเภท",
+        "location": "สถานที่ตั้ง",
+        "city": "จังหวัด",
+        "nameOfAgencyOrEstablishment": "ชื่อหน่วยงาน/สถานประกอบการ",
+        "cooperation": "ความร่วมมือ",
+        "contactLocation": "สถานที่ติดต่อ",
+        "contactPhoneNumber": "เบอร์โทรติดต่อ",
+        "email": "อีเมล",
+        "informationOnProduction": "ข้อมูลการผลิต",
+        "personnelSkillDevelopment": "การพัฒนา"
+      }
+    },
+    "formAdd": {
+      "step": {
+        "networkCenterData": "ข้อมูลศูนย์เครือข่าย",
+        "cooperationWithAgenciesOrEstablishments": "ความร่วมมือกับหน่วยงาน/สถานประกอบการ",
+        "productionAndPersonnelSkillDevelopment": "การผลิตและพัฒนาทักษะบุคลากร"
+      },
+      "increaseEecNetsData": "เพิ่มข้อมูลศูนย์เครือข่าย (EEC NETs)",
+      "detailNetworkCenter": "รายละเอียดศูนย์เครือข่าย",
+      "inputDatailNetworkData": "กรอกข้อมูลรายละเอียดศูนย์เครือข่าย",
+      "networkCenter": "ศูนย์เครือข่าย",
+      "typeNetworkCenter": "ประเภทศูนย์เครือข่าย",
+      "location": "สถานที่ตั้ง",
+      "city": "จังหวัด",
+      "informationOnCooperationWithAgenciesOrEstablishments": "ข้อมูลความร่วมมือกับหน่วยงาน/สถานประกอบการ",
+      "inputTheInformationOnCooperationWithAgenciesOrEstablishments": "กรอกข้อมูลความร่วมมือกับหน่วยงาน/สถานประกอบการ",
+      "nameOfAgencyOrEstablishment": "ชื่อหน่วยงาน/สถานประกอบการ",
+      "cooperation": "ความร่วมมือ",
+      "contactLocation": "สถานที่ติดต่อ",
+      "contactPhoneNumber": "ข้อมูลติดต่อ",
+      "email": "อีเมล",
+      "informationOnProductionAndPersonnelSkillDevelopment": "ข้อมูลการผลิตและพัฒนาทักษะบุคลากร",
+      "inputTheInformationOnProductionAndPersonnelSkillDevelopment": "กรอกข้อมูลการผลิตและพัฒนาทักษะบุคลากร",
+      "informationOnProduction": "ข้อมูลการผลิต",
+      "personnelSkillDevelopment": "การพัฒนาทักษะบุคลากร"
+    },
+    "formEdit": {
+      "modifyEecNetsData": "แก้ไขข้อมูลศูนย์เครือข่าย (EEC NETs)",
+      "detailNetworkCenter": "รายละเอียดศูนย์เครือข่าย",
+      "inputDatailNetworkData": "กรอกข้อมูลรายละเอียดศูนย์เครือข่าย",
+      "networkCenter": "ศูนย์เครือข่าย",
+      "typeNetworkCenter": "ประเภทศูนย์เครือข่าย",
+      "location": "สถานที่ตั้ง",
+      "city": "จังหวัด",
+      "informationOnCooperationWithAgenciesOrEstablishments": "ข้อมูลความร่วมมือกับหน่วยงาน/สถานประกอบการ",
+      "inputTheInformationOnCooperationWithAgenciesOrEstablishments": "กรอกข้อมูลความร่วมมือกับหน่วยงาน/สถานประกอบการ",
+      "nameOfAgencyOrEstablishment": "ชื่อหน่วยงาน/สถานประกอบการ",
+      "cooperation": "ความร่วมมือ",
+      "contactLocation": "สถานที่ติดต่อ",
+      "contactPhoneNumber": "ข้อมูลติดต่อ",
+      "email": "อีเมล",
+      "informationOnProductionAndPersonnelSkillDevelopment": "ข้อมูลการผลิตและพัฒนาทักษะบุคลากร",
+      "inputTheInformationOnProductionAndPersonnelSkillDevelopment": "กรอกข้อมูลการผลิตและพัฒนาทักษะบุคลากร",
+      "informationOnProduction": "การผลิต",
+      "personnelSkillDevelopment": "การพัฒนาทักษะบุคลากร"
+    }
+  },
+  "___Comment---Sweet Alert Delete": "---------------------------------------------- การเปลี่ยนภาษาของ Sweet Alert Delete -----------------------------------------------",
+  "sweetDelete": {
+    "doYouWantToDeleteData": "คุณต้องการลบข้อมูลหรือไม่ ?",
+    "pleaseSelectTheActionYouWant": "โปรดเลือกดำเนินการที่คุณต้องการ !",
+    "complete": "เสร็จสิ้น !",
+    "yourDataHasBeenSuccessfullyDeleted": "การลบข้อมูลของคุณสำเร็จแล้ว.",
+    "cancel": "ยกเลิก",
+    "successfullyCanceledDataDelete": "ยกเลิกการลบข้อมูลสำเร็จแล้ว."
+  },
+  "___Comment---Sweet Alert Add": "-------------------------------------------------------- การเปลี่ยนภาษาของ Sweet Alert Add -------------------------------------------",
+  "sweetAdd": {
+    "unableToAddData": "ไม่สามารถเพิ่มข้อมูลได้ !",
+    "pleaseInputACompleteData": "กรุณากรอกข้อมูลให้ครบถ้วน",
+    "doYouWantToIncreaseData": "คุณต้องการเพิ่มข้อมูลหรือไม่ ?",
+    "pleaseSelectTheActionYouWant": "โปรดเลือกดำเนินการที่คุณต้องการ !",
+    "complete": "เสร็จสิ้น !",
+    "yourDataHasBeenSuccessfullyIncreased": "การเพิ่มข้อมูลของคุณสำเร็จแล้ว.",
+    "cancel": "ยกเลิก",
+    "successfullyCanceledDataIncrease": "ยกเลิกการเพิ่มข้อมูลสำเร็จแล้ว.",
+    "foundDuplicateInformation": "พบข้อมูลที่ซ้ำกับในระบบ!"
+  },
+  "___Comment---Sweet Alert Edit": "-------------------------------------------------------- การเปลี่ยนภาษาของ Sweet Alert Edit -------------------------------------------",
+  "sweetEdit": {
+    "doyouWantToModifyData": "คุณต้องการแก้ไขข้อมูลหรือไม่ ?",
+    "pleaseSelectTheActionYouWant": "โปรดเลือกดำเนินการที่คุณต้องการ",
+    "complete": "เสร็จสิ้น !",
+    "yourDataHasBeenSuccessfullyModifies": "การแก้ไขข้อมูลของคุณสำเร็จแล้ว.",
+    "cancel": "ยกเลิก",
+    "successfullyCanceledDataModify": "ยกเลิกการแก้ไขข้อมูลสำเร็จแล้ว"
+  },
+  "___Comment---Switch Edit Alert EEC-NETs": "---------------------------------------------- การเปลี่ยนภาษาของ Switch Edit Alert ของ EEC-NETs -----------------------------------------------",
+  "change": {
+    "duplicate": "ชื่อ ประเภท และ จังหวัดที่ตั้งของศูนย์เครือข่ายของคุณมีอยู่แล้ว",
+    "what": "คุณต้องการเปลี่ยนเป็นการแก้ไขข้อมูลที่มีอยู่แล้วหรือไม่ ?",
+    "choose": "โปรดเลือกดำเนินการที่คุณต้องการ",
+    "complete": "เรียกข้อมูลเสร็จสิ้น !",
+    "switchFinish": "คุณเปลี่ยนเป็นการแก้ไขข้อมูลสำเร็จแล้ว",
+    "cancel": "ยกเลิก",
+    "cancelFinish": "ยกเลิกการดำเนินการสำเร็จแล้ว"
+  },
+  "__Comment---My Course": "------------------------------------------------------------------ การเปลี่ยนภาษาของหน้าจอ My Course ---------------------------------------------",
+  "myCourse": {
+    "My Course": "หลักสูตรของฉัน",
+    "Search": "ค้นหา",
+    "Couse Owner": "เจ้าของหลักสูตร",
+    "Course": "หลักสูตร",
+    "Start Date": "วันที่เริ่ม"
+  },
+  "__Comment---Profile": "-------------------------------------------------------------------- การเปลี่ยนภาษาของหน้าจอ Profile -----------------------------------------------",
+  "headerProfile": "โปรไฟล์",
+  "dataProfile": {
+    "Username": "ชื่อผู้ใช้",
+    "Email": "อีเมล",
+    "Status": "สถานะ",
+    "Context": "ติดต่อ",
+    "Address": "ที่อยู่",
+    "buttonEdit": "แก้ไข",
+    "buttonDelete": "ลบ"
+  },
+  "historyEducate": {
+    "headerHisEdu": "ประวัติการอบรม",
+    "nameCouse": "ชื่อหลักสูตร",
+    "Location": "สถานที่ตั้ง",
+    "Owner": "ผู้ขอจัดอบรม",
+    "Detail": "รายละเอียด"
+  },
+  "historyWork": {
+    "headerHisWork": "ประวัติการทำงาน",
+    "Position": "ตำแหน่ง",
+    "Company": "บริษัท",
+    "Skill": "ชุดทักษะ",
+    "Detail": "รายละเอียด"
+  },
+  "__Comment--Edit Profile": "----------------------------------------------------------------- การเปลี่ยนภาษาของหน้าจอ Edit Profile ------------------------------------------",
+  "headerEditProfile": "แก้ไขโปรไฟล์",
+  "Edit": {
+    "sideForUploadImage": "อนุญาต JPG, GIF หรือ PNG ขนาดสูงสุด 800K",
+    "buttonUpload": "อัปโหลดรูปภาพใหม่",
+    "buttonReset": "รีเซ็ต",
+    "firstName": "ชื่อจริง",
+    "lastName": "นามสกุล",
+    "Position": "ตำแหน่ง",
+    "phoneNumber": "เบอร์โทรศัพท์",
+    "Email": "อีเมล",
+    "Username": "ชื่อผู้ใช้",
+    "buttonSave": "บันทึก",
+    "buttonCancel": "ยกเลิก"
+  },
+  "Delete": {
+    "headerDelete": "ลบบัญชี",
+    "confirm": "ฉันยืนยันการปิดใช้งานบัญชีของฉัน",
+    "buttonDeactivate": "ปิดการใช้งานบัญชี"
+  },
+  "___Comment-Type-A-Graduate": "--------------------------------------------------- การเปลี่ยนภาษาของ module TypeA Graduate ------------------------------------------------------",
+  "graduate": {
+    "header": {
+      "name": "ชื่อ-นามสกุล",
+      "ID-Card": "บัตรประชาชน",
+      "level": "ระดับการศึกษา",
+      "role": "ตำแหน่ง"
+    },
+    "amount : ": "จำนวน :",
+    "rowPerPage": "แถวต่อหน้า",
+    "manageGraduateData": "จัดการข้อมูลผู้สำเร็จการศึกษา",
+    "addGraduateByFile": "เพิ่มข้อมูลจากไฟล์",
+    "formAdd": {
+      "addGraduateData": "เพิ่มข้อมูลผู้สำเร็จการศึกษา",
+      "prefix": "คำนำหน้า",
+      "firstname": "ชื่อ",
+      "lastname": "นามสกุล",
+      "ID-Card": "บัตรประชาชน",
+      "level": "ระดับการศึกษา",
+      "role": "ตำแหน่ง",
+      "action": "ดำเนินการ"
+    }
+  },
+  "___Comment-Account-list": "--------------------------------------------------- การเปลี่ยนภาษาจอของ Manage Account ------------------------------------------------------",
+  "MangeAccount": {
+    "header": {
+      "fullname": "ชื่อ-นามสกุล",
+      "role": "ตำแหน่ง",
+      "status": "สถานะ",
+      "action": "ดำเนินการ"
+    },
+    "amount : ": "จำนวน :",
+    "rowPerPage": "แถวต่อหน้า",
+    "manageAccount": "จัดการข้อมูลบัญชีผู้ใช้งาน",
+    "addAccount": "เพิ่มบัญชีผู้ใช้งาน",
+    "formAccount": {
+      "addAccount": "เพิ่มข้อมูลบัญชีผู้ใช้งาน",
+      "editAccount": "แก้ไขข้อมูลบัญชีผู้ใช้งาน",
+      "detailAccount": "รายละเอียดข้อมูลบัญชีผู้ใช้งาน",
+      "changePassword": "เปลี่ยนรหัสผ่านผู้ใช้งาน",
+      "deleteAccount": "ลบบัญชีผู้ใช้งาน",
+      "UploadNewPhoto": "อัพโหลดรูปภาพใหม่",
+      "resetPhoto": "รีเซ็ตรูปภาพ",
+      "imagesize": "อนุญาต JPG, GIF หรือ PNG ขนาดสูงสุด 800K",
+      "firstname": "ชื่อ",
+      "lastname": "นามสกุล",
+      "role": "ตำแหน่ง",
+      "PhoneNumber": "หมายเลขโทรศัพท์",
+      "Email": "อีเมล",
+      "Username": "ชื่อผู้ใช้",
+      "Password": "รหัสผ่าน",
+      "ConfirmPassword": "ยืนยันรหัสผ่าน",
+      "ConfirmdeleteAccount": "ฉันยืนยันการลบบัญชีผู้ใช้งาน",
+      "PleaseConfirmdeleteAccount": "โปรดยืนยันการลบบัญชีผู้ใช้งาน"
+    },
+    "rules": {
+      "Required": "กรุณาระบุข้อมูล",
+      "min": "ขั้นต่ำ 8 ตัวอักษร",
+      "rulesmin": "อย่างน้อย 8 ตัวอักษร",
+      "rulesemail": "อีเมลไม่ถูกต้อง กรุณากรอกใหม่",
+      "matchPassword": "รหัสผ่านไม่ตรงกัน"
+    }
+  },
+  "__Comment-Type-A-Curriculum": "------------------------------------------------------------------ การเปลี่ยนภาษาของ module TypeA Curriculum ---------------------------------------------",
+  "curriculum": {
+    "header": {
+      "Course": "หลักสูตร",
+      "Institution": "สถานศึกษา",
+      "action": "ดำเนินการ"
+    },
+    "formTypeA": {
+      "Institution": "สถานศึกษา",
+      "Course": "หลักสูตร",
+      "Description": "คำอธิบาย",
+      "Objective": "วัถุประสงค์",
+      "ContentLevel": "ระดับเนื้อหา",
+      "CourseStructure": "โครงสร้างหลักสูตร",
+      "Skills": "ทักษะ"
+    },
+    "courseDetails": "รายละเอียดหลักสูตร",
+    "tabler": "การดำเนินการ",
+    "eye": "ดูรายละเอียด",
+    "edit": "แก้ไขหลักสูตร",
+    "user": "ผู้สำเร็จการศึกษา",
+    "trash": "ลบหลักสูตร",
+    "Courses": "จัดการหลักสูตร",
+    "EditCourse": "แก้ไขหลักสูตร",
+    "AddCourse": "เพิ่มหลักสูตร",
+    "ImportFile": "เพิ่มข้อมูลจากไฟล์",
+    "Add": "เพิ่มหลักสูตร",
+    "buttonSave": "บันทึก",
+    "buttonCancel": "ยกเลิก",
+    "Pleasechoosetheactionyouwant": "โปรดเลือกดำเนินการที่คุณต้องการ",
+    "ThisinformationalreadyexistsWanttoeditit": "มีข้อมูลนี้อยู่แล้วต้องการแก้ไขหรือไม่"
+  },
+  "___Comment-Type-B-manageCourse": "--------------------------------------------------- การเปลี่ยนภาษาของ EEC Model typeB manageCourse ------------------------------------------------------",
+  "manageCourse": {
+    "title": "จัดการข้อมูลหลักสูตร (Type B)",
+    "titleApproval": "อนุมัติหลักสูตร (Type B)",
+    "required": "*ต้องเลือกก่อน",
+    "noData": "ไม่มีข้อมูลที่จะแสดง",
+    "buttonAdd": "เพิ่มข้อมูล",
+    "search": "ค้นหา :",
+    "status": "สถานะ :",
+    "placeholdersearch": "กรอกคำค้นหา",
+    "placeholderstatus": "เลือกสถานะ",
+    "tooltip": {
+      "edit": "แก้ไข",
+      "delete": "ลบ"
+    },
+    "table": {
+      "typb_name_course": "ชื่อหลักสูตร",
+      "typb_created_by": "ชื่อผู้เสนอ",
+      "CREATED_AT": "วันที่เสนอ",
+      "typb_status_approve": "สถานะ",
+      "action": "ดำเนินการ",
+      "amount": "จำนวน :",
+      "rowPerPage": "แถวต่อหน้า"
+    },
+    "filter": {
+      "All": "ทั้งหมด",
+      "Pending": "รออนุมัติ",
+      "Approved": "อนุมัติแล้ว",
+      "Not Approved": "ไม่อนุมัติ"
+    }
+  },
+  "___Comment-Type-B-manageTraining": "--------------------------------------------------- การเปลี่ยนภาษาของ EEC Model typeB manageCourse ------------------------------------------------------",
+  "manageTraining": {
+    "title": "จัดการอบรม (Type B)",
+    "titleApproval": "อนุมัติการอบรม (Type B)",
+    "required": "*ต้องเลือกก่อน",
+    "noData": "ไม่มีข้อมูลที่จะแสดง",
+    "buttonAdd": "เพิ่มข้อมูล",
+    "search": "ค้นหา :",
+    "status": "สถานะ :",
+    "placeholdersearch": "กรอกคำค้นหา",
+    "placeholderstatus": "เลือกสถานะ",
+    "tooltip": {
+      "edit": "แก้ไข",
+      "eb03": "รายงานผลการจัดอบรม EB03",
+      "eb04": "เอกสารรับรองจากสถานประกอบการ EB04",
+      "delete": "ลบ",
+      "approve": "อนุมัติอบรม"
+    },
+    "table": {
+      "typb_name_course": "ชื่อหลักสูตร",
+      "typb_created_by": "ชื่อผู้เสนอ",
+      "CREATED_AT": "วันที่เสนอ",
+      "typb_status_approve": "สถานะ",
+      "action": "ดำเนินการ",
+      "amount": "จำนวน :",
+      "rowPerPage": "แถวต่อหน้า"
+    },
+    "filter": {
+      "All": "ทั้งหมด",
+      "Pending": "รออนุมัติ",
+      "Approved": "อนุมัติแล้ว",
+      "Not Approved": "ไม่อนุมัติ",
+      "Training Progress": "กำลังจัดอบรม",
+      "Waiting Summary Report": "รอรายงานสรุปผล",
+      "Training Completed": "เสร็จสิ้นการอบรม"
+    }
+  },
+  "___Comment-Type-B-EB01": "--------------------------------------------------- การเปลี่ยนภาษาของ EEC Model typeB Form 01 ------------------------------------------------------",
+  "FormEB01": {
+    "courseProposalFormO1": "แบบฟอร์มเสนอหลักสูตร(EBO1) : หลักสูตรการอบรมระยะสั้นตามแนวทาง EEC Model",
+    "action": "ดำเนินการ",
+    "formAdd": {
+      "step1": {
+        "courseDetail": "รายละเอียดหลักสูตร",
+        "courseName": "ชื่อหลักสูตร",
+        "ownerCourse": "สถานศึกษาผู้รับผิดชอบหลักสูตร",
+        "coordinator": "ผู้ประสานงาน",
+        "contract": "ข้อมูลติดต่อ",
+        "Email": "อีเมล",
+        "countTrainees": "จำนวนผู้เข้าอบรม",
+        "dividedInto": "แบ่งออกเป็น",
+        "genNum": "รุ่นละ",
+        "trainingSchedule": "กำหนดการฝึกอบรม",
+        "trainingPeriod": "ระยะเวลาการฝึกอบรม"
+      },
+      "step2": {
+        "courseObjective": "วัตถุประสงค์หลักสูตร",
+        "entrepreneursWantJoin": "ผู้ประกอบการที่ประสงค์เข้าร่วมอบรม",
+        "responseTarget": "ตอบสนองต่ออุตสาหกรรมเป้าหมาย",
+        "benefitsTrain": "ประโยชน์ต่อผู้เข้าอบรม"
+      },
+      "step3": {
+        "budget": "งบประมาณ",
+        "budgetPerModel": "งบประมาณต่อรุ่น",
+        "totalBudget": "รวมงบประมาณทั้งสิ้น",
+        "expenseCategory": "หมวดค่าใช้จ่าย"
+      },
+      "step4": {
+        "courseGoal": "เป้าหมายหลักสูตร",
+        "targetGroup": "กลุ่มเป้าหมาย",
+        "originAndImportance": "ที่มาและความสำคัญ",
+        "learningOutcome": "ผลลัพธ์การเรียนรู้ของหลักสูตร ",
+        "impact": "ผลกระทบและประโยชน์ที่คาดว่าจะได้รับ",
+        "number": "ลำดับ",
+        "title": "หัวข้อ",
+        "outcomeRelate": "ผลลัพธ์ที่เกี่ยวข้อง"
+      }
+    }
+  },
+  "___Comment-Type-B-EB03": "--------------------------------------------------- การเปลี่ยนภาษาของ EEC Model typeB Form 03 ------------------------------------------------------",
+  "formEB03": {
+    "formName": "แบบฟอร์มรายงานผลการจัดอบรมระยะสั้นตามแนวทาง EEC Model (EB03)",
+    "page1": {
+      "courseCode": "รหัสหลักสูตร",
+      "courseName": "ชื่อหลักสูตร",
+      "academy": "สถานศึกษาผู้รับผิดชอบหลักสูตร",
+      "responsiblePerson": "ผู้รับผิดชอบหลักสูตร",
+      "contact": "ข้อมูลติดต่อ",
+      "mail": "อีเมล"
+    },
+    "page2": {
+      "trainingDetail": "รายละเอียดการอบรม",
+      "addNew": "+ เพิ่มข้อมูล",
+      "amountTrainee": "จำนวนผู้เข้าอบรมรวม (คน)",
+      "sumLecturer": "จำนวนวิทยากรรวม (คน)",
+      "lecturerList": "รายชื่อวิทยากร"
+    },
+    "page3": {
+      "expenseCategory": "หมวดค่าใช้จ่าย",
+      "actualExpenses": "ค่าใช้จ่ายตามจริง รวม",
+      "baht": "บาท",
+      "percentage": "คิดเป็นร้อยละ",
+      "expenses": "ค่าลงทะเบียน/ค่าใช้จ่ายที่ได้รับจากสถานประกอบการ",
+      "financialSupport": "ขอเบิกเงินสนับสนุนจาก สกพอ. (ไม่เกินร้อยละ 50)",
+      "moneySupport": "การเบิกเงินสนับสนุน",
+      "moneyAmountSupport": "ขอรับเงินสนับสนุนจำนวน"
+    },
+    "step": {
+      "courseDetail": "รายละเอียดหลักสูตร",
+      "training": "การฝึกอมรม",
+      "expense": "ค่าใช้จ่าย"
+    },
+    "header": {
+      "gen": "รุ่นที่",
+      "company": "สถานประกอบการ",
+      "amountPeople": "จำนวน (คน)",
+      "amountDay": "ระยะเวลา (วัน)",
+      "amountHour": "จำนวนชั่วโมงที่ใช้อบรม",
+      "date": "วันที่อบรม",
+      "budget": "งบประมาณที่ใช้ (บาท) ",
+      "detailCoordinator": "ชื่อและหมายเลขโทรศัพท์ของผู้ประสานงาน",
+      "action": "ดำเนินการ"
+    }
+  },
+  "___Comment-Type-B-EB04": "--------------------------------------------------- การเปลี่ยนภาษาของ EEC Model typeB Form 04 ------------------------------------------------------",
+  "formEB04": {
+    "formName": "เอกสารรับรองจากสถานประกอบการที่เข้าอบรมระยะสั้นตามแนวทาง EEC Model (EB04)",
+    "addNew": "+ เพิ่มข้อมูล",
+    "header": {
+      "no": "ลำดับ",
+      "name": "ชื่อ-นามสกุล",
+      "nationalIdCardNumber": "หมายเลขบัตรประชาชน",
+      "trainingLevel": "ระดับการอบรม (Supervisor/Worker/Operator)",
+      "position": "ตำแหน่ง"
+    }
+  },
+  "___Comment-Manage-Training-Approve": "--------------------------------------------------- การเปลี่ยนภาษาของ ManageTrainingApprove ------------------------------------------------------",
+  "manageTrainingApprove": {
+    "approve": "อนุมัติการอบรม",
+    "header": {
+      "courseName": "ชื่อหลักสูตร",
+      "proposerName": "ชื่อผู้เสนอ",
+      "proposerDate": "วันที่เสนอ",
+      "status": "สถานะ",
+      "action": "ดำเนินการ"
+    }
+  },
+  "___Comment-addDemand": "------------------------------------------ การเปลี่ยนภาษาในหน้า Add Demand ----------------------------------------------------------------------------",
+  "matching": {
+    "addDeman": {
+      "headAdd": "เพิ่มตำแหน่ง",
+      "Position": "ตำแหน่ง",
+      "Skill": "ชุดทักษะ",
+      "Company": "บริษัท",
+      "BTNaddDeman": {
+        "BTNsave": "บันทึก",
+        "BTNcancel": "ยกเลิก"
+      }
+    },
+    "Deman": {
+      "formDeman": {
+        "firstName": "ชื่อ",
+        "lastName": "นามสกุล",
+        "email": "อีเมล",
+        "city": "จังหวัด",
+        "country": "ประเทศ",
+        "BTNDeman": {
+          "BTNsave": "บันทึก",
+          "BTNcancel": "ยกเลิก"
+        }
+      },
+      "headPosition": "ตำแหน่ง",
+      "Search": "ค้นหา",
+      "BTNselect": {
+        "BTNcourse": "หลักสูตร",
+        "BTNposition": "ตำแหน่ง"
+      }
+    },
+    "supplyMatch": {
+      "matchingLoad": {
+        "success": "เสร็จสิ้น !",
+        "result": "การโหลดข้อมูลของคุณสำเร็จแล้ว."
+      },
+      "position": "ตำแหน่งงาน :",
+      "company": "บริษัท :",
+      "course": "หลักสูตร"
+    },
+    "supply": {
+      "filter": "กรองข้อมูล",
+      "course": "หลักสูตร",
+      "firstName": "ชื่อจริง",
+      "lastName": "นามสกุล",
+      "email": "อีเมล",
+      "city": "จังหวัด",
+      "country": "ประเทศ"
+    },
+    "manageDemand": {
+      "managePosition": "จัดการตำแหน่ง",
+      "userProfile": "บัญชีผู้ใช้งาน",
+      "fileInput": "นำไฟล์เข้า",
+      "position": "ตำแหน่งงาน",
+      "company": "บริษัท",
+      "skillSet": "ชุดทักษะ",
+      "action": "ดำเนินการ"
+    },
+    "editDemand": {
+      "editPosition": "แก้ไขตำแหน่งงาน",
+      "position": "ตำแหน่งงาน",
+      "skillSet": "ชุดทักษะ",
+      "company": "บริษัท"
+    },
+    "demandMatch": {
+      "matchingLoad": {
+        "success": "เสร็จสิ้น !",
+        "result": "การโหลดข้อมูลของคุณสำเร็จแล้ว."
+      },
+      "course": "หลักสูตร :",
+      "courseOwner": "เจ้าของหลักสูตร :",
+      "position": "ตำแหน่งงาน"
+    }
+  },
+  "Comment-typeB": "------------------------------------------ การเปลี่ยนภาษาในหน้า Tybe B ----------------------------------------------------------------------------",
+  "EB02": {
+    "formEB02": {
+      "headerForm": "แบบฟอร์มขออนุมัติอบรมระยะสั้นตามแนวทางอีอีซีโมเดล (EB02)",
+      "step1EB02": {
+        "detailCourse": "รายละเอียดหลักสูตร",
+        "courseCode": "รหัสหลักสูตร",
+        "courseName": "ชื่อหลักสูตร",
+        "ownerEducationCouse": "สถานศึกษาผู้รับผิดชอบหลักสูตร",
+        "ownerCouse": "ผู้รับผิดชอบหลักสูตร",
+        "contaxt": "ข้อมูลติดต่อ",
+        "email": "อีเมล",
+        "registerFee": "อัตราค่าลงทะเบียน (บาท/คน)"
+      },
+      "step2EB02": {
+        "requestApproval": "การขออนุมัติ",
+        "detailTraining": "รายละเอียดการฝึกอบรมที่ขออนุมัติ (ขอได้คราวละมากกว่า 1 รุ่น รวมระยะเวลาไม่เกิน 1 เดือน)",
+        "tableStep2": {
+          "gen": "รุ่นที่",
+          "establishment": "สถานประกอบการ",
+          "amount": "จำนวน",
+          "typeIndustry": "ประเภทอุตสาหกรรม",
+          "dayPeriod": "ระยะเวลา (วัน)",
+          "trainHour": "อบรม (ชั่วโมง)",
+          "trainingDate": "วันที่อบรม",
+          "action": "ดำเนินการ",
+          "totalNumberPerson": "รวมจำนวน (คน)",
+          "totalPeriodDay": "ระยะเวลา (วัน)",
+          "totalPeriodHour": "ระยะเวลา (ชั่วโมง)"
+        }
+      },
+      "step3EB02": {
+        "budget": "งบประมาณ",
+        "projectBudget": "งบประมาณโครงการ",
+        "tableStep3": {
+          "orderNo": "ลำดับที่",
+          "expenseCategory": "หมวดค่าใช้จ่าย",
+          "multiplierDetails": "รายละเอียดตัวคูณ",
+          "sum": "รวม (บาท)",
+          "total": "รวมทั้งสิ้น"
+        }
+      },
+      "btnEB02": {
+        "next": "ต่อไป",
+        "back": "ย้อนกลับ",
+        "add": "+ เพิ่มใหม่",
+        "save": "บันทึก"
+      },
+      "validatInput": {
+        "plsInput": "กรุณากรอกข้อมูลให้ครบถ้วน"
+      }
+    }
+  },
+  "Comment Public Relation": "------------------------------------------------------------ การเปลี่ยนภาษาในหน้าประชาสัมพันธ์ ------------------------------------------------------------",
+  "eec": "EEC",
+  "PRsidebar": "ประชาสัมพันธ์",
+  "PR": {
+    "home":{
+      "sidebar": "หน้าหลัก",
+      "welcome": "ยินดีต้อนรับสู่",
+      "aboutSystem": "มีงานทำ",
+      "target": "กลุ่มเป้าหมาย",
+      "stu": "นักศึกษาจบใหม่",
+      "unEmp": "คนว่างงาน",
+      "company": "สถานประกอบการ"
+    },
+    "course": {
+      "sidebar": "หลักสูตร",
+      "headC": "หลักสูตร",
+      "search": "ค้นหาหลักสูตรที่ต้องการอบรม",
+      "B1": "หลักูตรทั่วไป",
+      "B2": "หลักสูตรภายใน EEC",
+      "B3": "หลักสูตรที่เปิดรับสมัคร"
+    },
+    "eecNets": {
+      "sidebar": "ความร่วมมือ",
+      "headeecNets": "ความร่วมมือของศูนย์เครือข่าย",
+      "B1": "วิชาการ/วิจัย",
+      "B2": "การศึกษา",
+      "B3": "อุตสาหกรรม",
+      "readmore": "อ่านเพิ่มเติม"
+    },
+    "jobV": {
+      "sidebar": "ตำแหน่งงานว่าง",
+      "headJ": "ตำแหน่งงานว่างที่เปิดรับสมัคร",
+      "search": "ค้นหางาน",
+      "type": "ประเภทอุตสาหกรรม",
+      "city": "จังหวัด",
+      "req": "ความต้องการ"
+    },
+    "general": {
+      "sidebar": "ข่าวประชาสัมพันธ์",
+      "headG": "ข่าวประชาสัมพันธ์",
+      "search": "ค้นหา",
+      "calendar": "วว/ดด/ปปปป",
+      "to": "ถึง",
+      "readmore": "อ่านเพิ่มเติม"
+    }
+  }
+}
